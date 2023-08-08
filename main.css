@@ -1,0 +1,15 @@
+time {
+    display: block;
+}
+.post {
+    margin-bottom: 24px;
+}
+
+form input,
+form textarea{
+    margin-bottom: 24px;
+}
+
+button {
+    margin-top: 16px;
+}
